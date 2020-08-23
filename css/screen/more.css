@@ -1,0 +1,36 @@
+.fa-exclamation-circle {
+  margin-left: 10px;
+  color: tomato;
+}
+
+.suggestions {
+  border-top: var(--borderline);
+}
+.suggestions_title {
+  padding: 20px 0px;
+  font-size: 15px;
+}
+
+.more_icon_box_icons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.more_icon_box_icons_bg {
+  background-color: var(--yellow);
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.more_icon_box_icons_bg i {
+  color: white;
+  font-size: 30px;
+}
+
+.more_icon_box_icons span {
+  padding-top: 10px;
+}

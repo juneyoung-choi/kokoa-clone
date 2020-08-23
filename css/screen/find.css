@@ -1,9 +1,8 @@
 .icon_box {
-  padding: 10px 35px 20px 35px;
+  padding: 10px 35px 10px 35px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-bottom: var(--borderline);
 }
 
 .icon_box_icons {
@@ -21,9 +20,20 @@
 .icon_box_icons span {
   color: rgba(0, 0, 0, 0.9);
 }
+.icons_blank i {
+  font-size: 40px;
+  color: white;
+  margin-bottom: 15px;
+}
+
+.icons_blank span {
+  color: white;
+}
 
 .recommended_friends {
   margin-top: 10px;
+  border-top: var(--borderline);
+  padding-top: 10px;
 }
 
 .recommended_friends_title,
