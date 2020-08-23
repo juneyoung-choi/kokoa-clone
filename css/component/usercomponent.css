@@ -1,0 +1,44 @@
+.user_component {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 15px;
+  align-items: center;
+}
+
+.user_component_column {
+  display: flex;
+  align-items: center;
+}
+
+.user_component_profile_lg {
+  width: 80px;
+  height: 80px;
+  border-radius: 30px;
+}
+
+.user_component_profile_sm {
+  width: 60px;
+  height: 60px;
+  border-radius: 18px;
+}
+
+.user_component_title {
+  margin-left: 10px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.user_component_subtitle {
+  margin-left: 10px;
+  color: rgba(0, 0, 0, 0.6);
+  margin-top: 10px;
+}
+
+.user_component_title_light {
+  font-weight: 400;
+}
+
+.user_component_text {
+  display: flex;
+  flex-direction: column;
+}

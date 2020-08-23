@@ -1,0 +1,26 @@
+#info-msg {
+  display: flex;
+  background-color: rgb(172, 167, 167);
+  opacity: 0.5;
+  color: black;
+  height: 40px;
+  padding: 3px;
+  justify-content: center;
+  align-items: center;
+}
+
+#info-msg i {
+  margin: 5px;
+}
+
+.friends_screen {
+  padding: 15px;
+}
+.friends_screen_list_header {
+  border-top: 1px solid rgba(0, 0, 0, 0.3);
+  padding: 15px 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: rgba(0, 0, 0, 0.5);
+}

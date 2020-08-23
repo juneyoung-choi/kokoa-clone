@@ -1,0 +1,8 @@
+.user_component > .user_component_column:nth-child(2) {
+  display: flex;
+  flex-direction: column;
+}
+
+.chats_notification {
+  margin-top: 5px;
+}

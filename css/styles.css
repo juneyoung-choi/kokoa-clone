@@ -1,0 +1,24 @@
+/* root */
+@import "reset.css";
+@import "variables.css";
+
+/* component */
+@import "component/status-bar.css";
+@import "component/header.css";
+@import "component/usercomponent.css";
+@import "component/nav.css";
+@import "component/badge.css";
+
+/* screen */
+@import "screen/welcome.css";
+@import "screen/friends.css";
+@import "screen/chats.css";
+@import "screen/find.css";
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main_screen {
+  padding: 0px 20px;
+}
