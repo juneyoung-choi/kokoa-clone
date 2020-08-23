@@ -1,3 +1,3 @@
-#kokoa clone update
+# kokoa clone update
 
-CSS got so much better!
+Coding is so much fun!
